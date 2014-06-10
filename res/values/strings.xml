@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvFinalTip"></string>
+    <string name="btn1Tip">10%</string>
+    <string name="btn2Tip">15%</string>
+    <string name="btn3Tip">20%</string>
+
+</resources>
